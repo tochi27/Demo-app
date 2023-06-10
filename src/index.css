@@ -3,7 +3,69 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+
+}
+
+.mama{
+    padding: 1rem 2rem;
+    background-color: rgb(158, 156, 156);
+}
+
+/* .mama{
+    height: 100svh;
+    display: grid;
+    grid-template-columns: 15rem 1fr;
+}
 
 #head{
     background-color: rgba(255, 0, 0, 0.4);
+    outline: .100rem solid black;
 }
+
+#navi{
+    background-color: orange;
+    outline: .100rem solid black;
+}
+
+#foot{
+    background-color: whitesmoke;
+}
+
+.two{
+    height: 100svh;
+    display: grid;
+    grid-template-rows: 1fr 5rem;
+}
+
+.App{
+    background-color: rgb(190, 87, 87);
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    padding: 1rem 2rem;
+    border-radius: 0.5rem;
+    box-shadow: rgb(64, 99, 131) 3px 3px 6px 0px inset, -3px -3px 6px 1px inset;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+#stepper{
+    text-align: center;
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: coral;
+} */
+
